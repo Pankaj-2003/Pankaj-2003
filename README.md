@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🌱 I’m currently learning Machine Learning<br>
+🌱 I’m currently learning Machine Learning in Finance<br>
 
 
 ## 🌐 Socials:
