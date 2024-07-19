@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🌱 I’m currently learning Machine Learning in Finance<br>
+🌱 I’m currently learning about LLMs and looking for data science internships<br>
 
 
 ## 🌐 Socials:
