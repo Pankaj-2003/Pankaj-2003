@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-tiwari-86974221a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/P4nk4jT1w4r1](https://x.com/__pt__20)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-tiwari-86974221a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/__pt__20]) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
